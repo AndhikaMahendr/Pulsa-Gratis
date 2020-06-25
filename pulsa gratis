@@ -1,0 +1,11 @@
+Caranya
+$ apt pembaruan && peningkatan apt 
+$ apt install php 
+$ apt install toilet 
+$ apt install git 
+$ git clone https://github.com/AndhikaMahendr/Pulsa-Gratis
+$ cd PulsaGratis 
+$ ls 
+$ chmod + x * 
+$ ls 
+$ sh Pulsa.sh
