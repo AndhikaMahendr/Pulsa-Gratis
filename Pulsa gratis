@@ -1,0 +1,205 @@
+Caranya
+$ apt pembaruan && peningkatan apt 
+$ apt install php 
+$ apt install toilet 
+$ apt install git 
+$ git clone https://github.com/AndhikaMahendr/Pulsa-Gratis
+$ cd PulsaGratis 
+$ ls 
+$ chmod + x * 
+$ ls 
+$ sh Pulsa.sh
+
+# File aplikasi yang dibangun
+* .apk
+* .ap_
+
+# File untuk ART / Dalvik VM
+* .dex
+
+# File kelas Java
+* .kelas
+
+# File yang dihasilkan
+bin /
+gen /
+keluar /
+
+# Mengalihkan file
+.gradle /
+membangun /
+
+# File konfigurasi lokal (jalur SDK, dll)
+properti lokal
+
+# Folder proguard dihasilkan oleh Eclipse
+proguard /
+
+# Log File
+* .log
+
+# Temp file editor Android Studio Navigasi
+.navigation /
+
+# Android Studio mengambil folder
+menangkap /
+
+# IntelliJ
+* .iml
+.idea / workspace.xml
+.idea / task.xml
+.idea / gradle.xml
+.idea / assetWizardSettings.xml
+.idea / kamus
+.idea / perpustakaan
+.idea / cache
+
+# File Keystore
+# Uncomment baris berikut jika Anda tidak ingin memeriksa file keystore Anda di.
+# * .jks
+
+# Folder bawaan eksternal yang dibuat di Android Studio 2.2 dan yang lebih baru
+.externalNativeBuild
+
+# Layanan Google (mis. API atau Firebase)
+google-services.json
+
+# Freeline
+freeline.py
+freeline /
+freeline_project_description.json
+
+# fastlane
+fastlane / report.xml
+fastlane / Preview.html
+fastlane / tangkapan layar
+fastlane / test_output
+fastlane / readme.md
+
+AndhikaMahendr / Pulsa-Gratis dilisensikan di bawah
+
+Lisensi Publik Umum GNU v3.0
+Izin lisensi copyleft yang kuat ini dikondisikan untuk menyediakan kode sumber lengkap dari karya berlisensi dan modifikasi, yang mencakup karya yang lebih besar menggunakan karya berlisensi, di bawah lisensi yang sama. Pemberitahuan hak cipta dan lisensi harus dilestarikan. Kontributor memberikan hibah hak paten.
+
+Izin
+ Penggunaan komersial
+ Modifikasi
+ Distribusi
+ Penggunaan paten
+ Penggunaan pribadi
+Keterbatasan
+ Kewajiban
+ Jaminan
+Kondisi
+ Pemberitahuan lisensi dan hak cipta
+ Status berubah
+ Sumber terbuka
+ Lisensi yang sama
+
+#! / system / xbin / bash
+# Bersihkan Layar
+bersih
+blue = ' \ e [1; 34m '
+green = ' \ e [1; 32m '
+ungu = ' \ [1; 35m '
+cyan = ' \ e [1; 36m '
+red = ' \ e [1; 31m '
+white = ' \ e [1; 37m '
+kuning = ' \ e [1; 33m '
+tidur 1
+echo  " \ 033 [32; 1m = * = * = * = * = * = * = * = * = * = * = * = * = * = * = * = * = * = * = * = * = * = * = * = * = * = * = * = * = * = * = * = * = * = * = * = * = * = * = * = * "
+toilet -f standar -F gay " PULSA-GRATIS "
+echo  " \ 033 [31; 1m = * = * = * = * = * = * = * = * = * = * = * = * = * = * = * = * = * = * = * = * = * = * = * = * = * = * = * = * = * = * = * = * = * = * = * = * = * = * = * = * "
+gema  " "
+echo  " Penulis: " WadahDay / AndhikaMahendr "
+" Tim :  " TIM WADAH DAY "
+echo  " Kontak Me: " 082287291793 "
+" Pesan :  " Jangan Di Salah Gunakan Dan Disebar :) Karena Nanti Dosa Tanggung Sendiri :) "
+tidur 1
+echo  " Terima kasih, "
+echo  " Allmember WADAH DAY TEAM "
+echo  " \ 033 [32; 1m = * = * = * = * = * = * = * = * = * = * = * = * = * = * = * = * = * = * = * = * = * = * = * = * = * = * = * = * = * = * = * = * = * = * = * = * = * = * = * = * "
+gema  " "
+tidur 3
+echo  " Kumpulan Kumpulan Pulsa Semua Operator "
+echo  " Gunakan Pakai +62 #Contoh + 62xxx: "
+baca p ;
+
+echo  " Nomor Sedang Di Proses "
+tidur 2
+gema  " \ 033 [37; 1m█10% " 
+tidur 1
+gema  " ██20% " 
+tidur 1
+gema  " ███30% " 
+tidur 3
+gema  " ████40% " 
+tidur 3
+gema  " █████50% " 
+tidur 3
+gema  " ██████60% " 
+tidur 5
+echo  " \ 033 [31; 1mNomor Gagal Di Proses .. " " \ 033 [32; 1mSilahkan Masukkan Kembali No Anda: "
+baca p ;
+tidur 3
+echo  " Sedang Menuju Proses ... "
+tidur 3
+gema  " \ 033 [37; 1m█10% "
+tidur 2
+gema  " ██20% "
+tidur 5
+gema  " ███30% "
+tidur 3
+gema  " ████40% "
+tidur 3
+gema  " █████50% "
+tidur 3
+gema  " ██████60% "
+tidur 3
+gema  " ███████70% "
+tidur 4
+gema  " ████████80% "
+tidur 3
+gema  " █████████90% "
+tidur 4
+gema  " ██████████100% "
+tidur 3
+echo  " \ 033 [32; 1mSilahkan Masukkan Jumlah Yang Anda Mau: "
+baca p ;
+tidur 2
+echo  " Sedang Menuju Proses ... "
+gema  " \ 033 [37; 1m█10% "
+tidur 1
+gema  " ██20% "
+tidur 1
+gema  " ███30% "
+tidur 3
+gema  " ████40% "
+tidur 3
+gema  " █████50% "
+tidur 3
+gema  " ██████60% "
+tidur 3
+gema  " ███████70% "
+tidur 4
+gema  " ████████80% "
+tidur 3
+gema  " █████████90% "
+tidur 4
+gema  " ██████████100% "
+tidur 6
+echo  " \ 033 [34; 1mJumlah Yang Anda Masukkan Sukses ... " " \ 033 [32; 1mSilahkan Tunggu 5 Menit ... "
+tidur 2
+tidur 3
+gema  " Ketik Keluar Untuk Keluar "
+baca p ;
+tidur 2
+tidur 3
+tidur 4
+
+Pulsa-Gratis
+Pulsa Gratis
+
+
+#Pesan: Jangan Nyalahin Admin / Pembuat Chanel Youtubnya Jika Script
+#Ini Tidak Berfungsi
